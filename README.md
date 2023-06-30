@@ -13,7 +13,6 @@ Sou Raphael Margoni, tenho 23 anos me encontrei na area de tecnologia por ser um
   <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
-
 ![Snake animation](https://github.com/raphasm/raphasm/blob/output/github-contribution-grid-snake.svg)
 
 <!--
