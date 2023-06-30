@@ -1,7 +1,5 @@
 ## Olá, seja bem vindo ☕
 
-
-### Engenheiro de Produção | Dev Backend e Frontend.
 Sou Raphael Margoni, tenho 23 anos me encontrei na area de tecnologia por ser uma pessoa que sempre gosta de inovar e criar coisas novas. Sempre estou disposto á aprender e superar desafios.
 
 
