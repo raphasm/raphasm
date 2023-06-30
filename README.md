@@ -1,4 +1,4 @@
-## Olá, seja bem vindo ☕
+ ## Olá, seja bem vindo ☕
 
 Sou Raphael Margoni, tenho 23 anos me encontrei na area de tecnologia por ser uma pessoa que sempre gosta de inovar e criar coisas novas. Sempre estou disposto á aprender e superar desafios.
 
@@ -13,6 +13,7 @@ Sou Raphael Margoni, tenho 23 anos me encontrei na area de tecnologia por ser um
   <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
 
+<!--
 ## **Ferramentas e Tecnologias**
 
 ### Linguagens de programação 
