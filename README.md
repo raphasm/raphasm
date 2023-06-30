@@ -14,7 +14,7 @@ Sou Raphael Margoni, tenho 23 anos me encontrei na area de tecnologia por ser um
 </div><br>
 
 
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raphasm/raphasm/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 ## **Ferramentas e Tecnologias**
