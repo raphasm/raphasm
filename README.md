@@ -4,8 +4,6 @@ Sou Raphael Margoni, tenho 25 anos e me encontrei na área de tecnologia por sem
 
 Meu foco é entregar código limpo, soluções escaláveis e colaborar em equipes multidisciplinares.
 
----
-
 ### 🚀 Tecnologias e Ferramentas
 
 <div align="left">
